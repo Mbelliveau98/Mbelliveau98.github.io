@@ -1,0 +1,23 @@
+h2 {
+  background-color:plum;
+}
+
+#intro {
+  background-color: mediumaquamarine;
+}
+.list {
+  background-color: mediumslateblue;
+}
+
+body{
+  background-color: lightcyan;
+}
+
+p{
+  font-family: arial;
+}
+
+li {
+  font-size: 20px;
+  text-align: center;
+}
